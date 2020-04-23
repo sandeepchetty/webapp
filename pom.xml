@@ -43,7 +43,7 @@
         </configuration>
        <distributionManagement>
         <repository>
-          <id>ramesh</id>
+           <id>ramesh</id>
            <name>maven-makan</name>
            <url>http://localhost:8081/repository/makan/</url>
         </repository>
